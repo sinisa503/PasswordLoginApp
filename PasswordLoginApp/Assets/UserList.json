@@ -1,0 +1,88 @@
+{
+  "loginModel": [
+    {
+      "id": "1",
+      "name": "Hank Moody",
+      "role": "Management",
+      "avatarUrl": "http://img.timeinc.net/time/daily/2010/1011/poy_nomination_agassi.jpg",
+      "passHash": "CEBB263E7ED7AA839D9211D86CBF1518"
+    },
+    {
+      "id": "2",
+      "name": "Joel Corrigan",
+      "role": "Recruiting",
+      "avatarUrl": "https://jessmillmine.files.wordpress.com/2013/03/person3.jpg",
+      "passHash": "ADB0EA07EF2BC06F74A94A9007DBB2B2"
+    },
+    {
+      "id": "3",
+      "name": "Benjamin Clanet",
+      "role": "HelpDesk",
+      "avatarUrl": "http://starke-stimme.de/wp-content/uploads/2012/11/Ralf-Zimmer-Portrait-2012_378x504-e1379851322534.jpg",
+      "passHash": "EE9D25A533650894FC46BD9D50590A80"
+    },
+    {
+      "id": "4",
+      "name": "Marija Tödtling",
+      "role": "Recruiting",
+      "avatarUrl": "https://i.kinja-img.com/gawker-media/image/upload/s--WqVyIftd--/185i0iroqd2idjpg.jpg",
+      "passHash": "B81453378A0C6E5389111178CF249C11"
+    },
+    {
+      "id": "5",
+      "name": "Jeremy Puent",
+      "role": "Management",
+      "avatarUrl": "http://stanlemmens.nl/wp/wp-content/uploads/2014/07/bill-gates-wealthiest-person.jpg",
+      "passHash": "8C5EF44D165CE982FFB70B469D4D7E6C"
+    },
+    {
+      "id": "6",
+      "name": "Mahendra Mistry",
+      "role": "Guru",
+      "avatarUrl": "https://timedotcom.files.wordpress.com/2015/11/time-person-of-the-year-poll-malala-yousafzai.jpg",
+      "passHash": "107E8373C152BEC66ECC8D335DF7206D"
+    },
+    {
+      "id": "7",
+      "name": "Viktor Berger",
+      "role": "IT Crowd",
+      "avatarUrl": "http://platypus1917.org/wp-content/uploads/2010/01/Hubert_Henry_Harrison1.jpg",
+      "passHash": "BC86C85487D3F5D030A8A8E9970BE1AE"
+    },
+    {
+      "id": "8",
+      "name": "Chris Page",
+      "role": "Management",
+      "avatarUrl": "http://i2.cdnds.net/13/31/618x435/ustv-kevin-chapman-person-of-interest-1.jpg",
+      "passHash": "5C4BF758B3E4A924C49C4CD683CC638B"
+    },
+    {
+      "id": "9",
+      "name": "Philip Wainwright",
+      "role": "PR",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/378800000575780821/d931de9dbdd2a0cfe37da10ac798071e_400x400.jpeg",
+      "passHash": "CE7BCDA695C30AA2F9E5F390C820D985"
+    },
+    {
+      "id": "10",
+      "name": "Martin Lutton",
+      "role": "Sales",
+      "avatarUrl": "http://www.referenseo.fr/neolage/wp-content/uploads/sites/28/2015/02/michel.jpg",
+      "passHash": "5F4DCC3B5AA765D61D8327DEB882CF99"
+    },
+    {
+      "id": "11",
+      "name": "Jean Dussetour",
+      "role": "Sales",
+      "avatarUrl": "http://assets.nydailynews.com/polopoly_fs/1.2358013.1442064098!/img/httpImage/image.jpg_gen/derivatives/article_400/sniper13n-1-web.jpg",
+      "passHash": "057B3B95DF64E1680DA1259CE1FB9B45"
+    },
+    {
+      "id": "12",
+      "name": "Michael Bauerle",
+      "role": "Management",
+      "avatarUrl": "http://www.ofwcmedia.com/1386-455-large/the-theology-of-the-body-and-the-single-person-cd-christopher-west.jpg",
+      "passHash": "AA9F73EEA60A006820D0F8768BC8A3FC"
+    }
+   ]
+}
