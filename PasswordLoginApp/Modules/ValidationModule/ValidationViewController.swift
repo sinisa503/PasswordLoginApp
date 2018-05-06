@@ -26,6 +26,13 @@ class ValidationViewController: UIViewController {
    var userImage:UIImage?
    var userModel:User?
    
+   override func viewDidLoad() {
+      super.viewDidLoad()
+      
+      let touchGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(viewWasTouched))
+      view.addGestureRecognizer(touchGestureRecognizer)
+   }
+   
    override func viewDidLayoutSubviews() {
       super.viewDidLayoutSubviews()
       validateButton.layer.cornerRadius = 10
@@ -60,6 +67,10 @@ class ValidationViewController: UIViewController {
       }
    }
    
+   @objc private func viewWasTouched() {
+      passwordTextField.resignFirstResponder()
+   }
+   
    private func setPassword(valid:Bool) {
       validationTextLabel.isHidden = false
       if valid {
@@ -77,6 +88,7 @@ class ValidationViewController: UIViewController {
 }
 extension ValidationViewController: UITextFieldDelegate {
    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+      textField.resignFirstResponder()
       validatePassword()
       return true
    }
